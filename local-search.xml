@@ -4,6 +4,44 @@
   
   
   <entry>
+    <title>友盟+数据分析报告</title>
+    <link href="/2021/03/13/AWE4/"/>
+    <url>/2021/03/13/AWE4/</url>
+    
+    <content type="html"><![CDATA[<h1 id="友盟-数据分析报告"><a href="#友盟-数据分析报告" class="headerlink" title="友盟+数据分析报告"></a>友盟+数据分析报告</h1><p><img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20210313225430744.png" alt="image-20210313225430744"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225514426.png" alt="image-20210313225514426"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225541369.png" alt="image-20210313225541369"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225631139.png" alt="image-20210313225631139"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225658505.png" alt="image-20210313225658505"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225718165.png" alt="image-20210313225718165"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225738957.png" alt="image-20210313225738957"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225757423.png" alt="image-20210313225757423"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225811191.png" alt="image-20210313225811191"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225824922.png" alt="image-20210313225824922"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225840849.png" alt="image-20210313225840849"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225859578.png" alt="image-20210313225859578"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225915572.png" alt="image-20210313225915572"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225932194.png" alt="image-20210313225932194"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313225947786.png" alt="image-20210313225947786"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230007462.png" alt="image-20210313230007462"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230022982.png" alt="image-20210313230022982"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230035180.png" alt="image-20210313230035180"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230101892.png" alt="image-20210313230101892"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230115030.png" alt="image-20210313230115030"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230133942.png" alt="image-20210313230133942"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230150341.png" alt="image-20210313230150341"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230209868.png" alt="image-20210313230209868"></p><p><img src="https://cdn.jsdelivr.net/gh/Awesome-hang/picgo-repo/img/image-20210313230224506.png" alt="image-20210313230224506"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>数据分析报告</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>python语言基础</title>
+    <link href="/2021/03/08/python/"/>
+    <url>/2021/03/08/python/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Python语言基础"><a href="#Python语言基础" class="headerlink" title="Python语言基础"></a>Python语言基础</h2><h4 id="1、重要的Python库"><a href="#1、重要的Python库" class="headerlink" title="1、重要的Python库"></a>1、重要的Python库</h4><blockquote><p>Numpy</p></blockquote><p>​        NumPy(Numerical Python) 是 Python 语言的一个扩展程序库，支持大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。</p><p>​        NumPy 的前身 Numeric 最早是由 Jim Hugunin 与其它协作者共同开发，2005 年，Travis Oliphant 在 Numeric 中结合了另一个同性质的程序库 Numarray 的特色，并加入了其它扩展而开发了 NumPy。NumPy 为开放源代码并且由许多协作者共同维护开发。</p><p>NumPy 是一个运行速度非常快的数学库，主要用于数组计算，包含：</p><ul><li>一个强大的N维数组对象 ndarray</li><li>广播功能函数</li><li>整合 C/C++/Fortran 代码的工具</li><li>线性代数、傅里叶变换、随机数生成等功能</li></ul><blockquote><p>Numpy应用</p></blockquote><p>​        NumPy 通常与 SciPy（Scientific Python）和 Matplotlib（绘图库）一起使用， 这种组合广泛用于替代 MatLab，是一个强大的科学计算环境，有助于我们通过 Python 学习数据科学或者机器学习。</p><p>​        SciPy 是一个开源的 Python 算法库和数学工具包。</p><p>​        SciPy 包含的模块有最优化、线性代数、积分、插值、特殊函数、快速傅里叶变换、信号处理和图像处理、常微分方程求解和其他科学与工程中常用的计算。</p><p>​        Matplotlib 是 Python 编程语言及其数值数学扩展包 NumPy 的可视化操作界面。它为利用通用的图形用户界面工具包，如 Tkinter, wxPython, Qt 或 GTK+ 向应用程序嵌入式绘图提供了应用程序接口（API）。</p><blockquote><p>Pandas</p></blockquote><p>​        Pandas 是python的一个数据分析包，最初由AQR Capital Management于2008年4月开发，并于2009年底开源出来，目前由专注于Python数据包开发的PyData开发team继续开发和维护，属于PyData项目的一部分。Pandas最初被作为金融数据分析工具而开发出来，因此，pandas为时间序列分析提供了很好的支持。 Pandas的名称来自于面板数据（panel data）和python数据分析（data analysis）。panel data是经济学中关于多维数据集的一个术语，在Pandas中也提供了panel的数据类型。</p><blockquote><p>matplotlib</p></blockquote><p>​        Matplotlib 是 Python 的绘图库。 它可与 NumPy 一起使用，提供了一种有效的 MatLab 开源替代方案。 它也可以和图形工具包一起使用，如 PyQt 和 wxPython。</p><h4 id="2、Python语言基本操作"><a href="#2、Python语言基本操作" class="headerlink" title="2、Python语言基本操作"></a>2、Python语言基本操作</h4>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>利用python进行数据分析</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>数据产品经理的思维透视</title>
     <link href="/2021/03/08/AWE3/"/>
     <url>/2021/03/08/AWE3/</url>
